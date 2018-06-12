@@ -3,12 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <packaging>jar</packaging>
-    <groupId>com.jamesward</groupId>
+    <groupId>com.github.manodj-sfdc</groupId>
     <artifactId>travis-central-test</artifactId>
     <version>0.0.16-SNAPSHOT</version>
     <name>Travis Central Test</name>
     <description>Travis Central Test</description>
-    <url>http://jamesward.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -31,9 +30,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/jamesward/travis-central-test</url>
-        <connection>scm:git:https://github.com/jamesward/travis-central-test.git</connection>
-        <developerConnection>scm:git:https://github.com/jamesward/travis-central-test.git</developerConnection>
+        <url>https://github.com/manodj-sfdc/travis-central-test</url>
+        <connection>scm:git:https://github.com/manodj-sfdc/travis-central-test.git</connection>
+        <developerConnection>scm:git:https://github.com/manodj-sfdc/travis-central-test.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

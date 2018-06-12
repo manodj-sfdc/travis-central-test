@@ -1,7 +1,7 @@
 Travis Central Test
 -------------------
 
-A project to test a Maven library CI/CD pipeline that uses Travis to verify tags, create releases, and push them to Maven Central.
+ project to test a Maven library CI/CD pipeline that uses Travis to verify tags, create releases, and push them to Maven Central.
 
 Get this library from Maven Central:
 ```
