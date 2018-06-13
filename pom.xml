@@ -4,7 +4,7 @@
 
     <packaging>jar</packaging>
     <groupId>com.github.manodj-sfdc</groupId>
-    <artifactId>travis-central-test</artifactId>
+    <artifactId>travis-cent</artifactId>
     <version>0.0.18-SNAPSHOT</version>
     <name>Travis Central Test</name>
     <description>Travis Central Test</description>
