@@ -8,7 +8,7 @@
     <version>0.0.17-SNAPSHOT</version>
     <name>Travis Central Test</name>
     <description>Travis Central Test</description>
-
+     <url>http://jamesward.com</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
