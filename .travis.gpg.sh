@@ -25,7 +25,7 @@ if [[ ! -z "$TRAVIS" && ! -z "$GPG_NAME" && ! -z "$GPG_EMAIL" ]]; then
 
     shred gen-key-script
 
-    gpg --keyserver keyserver.ubuntu.com --send-keys ${GPG_KEYNAME}
+    gpg --keyserver keyserver.ubuntu.com:8080 --send-keys ${GPG_KEYNAME}
 
     while(true); do
         date
